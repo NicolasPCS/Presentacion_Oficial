@@ -16,7 +16,7 @@ psycopg2==2.8.3
 pycparser==2.19
 pylint==2.4.3
 pymunk==5.5.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pytz==2019.3
 reportlab==3.5.28
 six==1.12.0
